@@ -1,0 +1,7 @@
+numpy>=2.0
+pandas>=2.2
+pystac-client>=0.8
+rasterio>=1.4
+shapely>=2.0
+tabulate>=0.9
+requests>=2.31

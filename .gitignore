@@ -2,3 +2,7 @@ data/
 satellite/
 
 
+venv/
+__pycache__/
+*.pyc
+.DS_Store
